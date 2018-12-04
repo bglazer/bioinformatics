@@ -1,0 +1,2 @@
+1. All human experimental proteins. 50% downsampling for training, 25% test 25% validation
+2. Train on Human experimental proteins, confidence > 50. Test/validation split confidence <50
